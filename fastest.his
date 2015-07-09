@@ -1,0 +1,39 @@
+
+    .------------------------------------------------.
+    | FASTEST UPLOADERS (c) Snake Man, PMC 1996-2015 |
+    `------------------------------------------------'
+
+    History of fastest.c / fast.c (daydream)
+   ------------------------
+--------------------
+  + added feature,  - general comment,  * bugfix
+
+
+03-11-2000 / v0.2br7
+==================
+    * file_id.diz or FILE_ID.DIZ... if the zip has lower or uppercase dizzy, 
+      we will now find it.
+
+
+08-12-1999 / v0.2br6
+==================
+    - change datafile to pmc.h, optimized code alot. Seems to be working ok.
+
+
+07-29-1999 / v0.1b
+==================
+    - crazy debugging with DrDoom... no luck, yet.
+    - finally got around and put flowers showblt fish custom setup
+      to run FU. well, it had to be done sooner or later.
+    + Color support, fixed TONS of showblt of flowers source to 
+      write all 0-older tops to file. pheeeft!
+      
+
+02-28-1999 / v0.1b
+==================
+    - first datafile entries are created, Whee!
+    
+
+02-27-1999 / v0.0
+==================
+    ! Project initiated.

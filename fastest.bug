@@ -1,0 +1,11 @@
+* if username if difference "Snake Man" vs "snake man" it will consider them
+  two different users.
+- seems to only add newusers with 2day bytes.
+- fast.c if pmcfasts.dat not found => segfaults.
+
+
+- == simply a bug
+* == done but not verified!
+
+
+TODO

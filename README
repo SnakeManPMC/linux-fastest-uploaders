@@ -1,0 +1,44 @@
+
+    Fastest Uploaders documentation 
+    
+
+
+BASIC INFORMATION
+
+This is DayDream door, it will generate bulletins (ansi/ascii) for the bbs's
+fastest uploaders, these uploaders are sorted in 0,1,2,3,4 and older day stats.
+We refer in this document to the DD dir as "/home/bbs".    
+    
+
+
+INSTALLATION
+
+copy binaries to /home/bbs/doors directory, insert the following line to the 
+examine.dat file located in /home/bbs/confs/YOURCONFNAME/data directory:
+
+    /home/bbs/doors/fastest %N
+    
+In our normal setup this is directly under the conftop line.    
+
+
+
+CREATING BULLETINS
+
+after the installation when your bbs receives the first uploads, you get file
+pmcfasts.dat in the /home/bbs/doors directory, now run binary "fast" and it 
+will read the pmcfasts.dat and create .gfx / .txt files for every day category.
+
+after this is done, you can fiddle around the .gfx & .txt files usually copying
+them to your bulletins dir and renaming them to bulletin.??.gfx etc.
+
+
+
+END_WORDS
+
+any questions? didnt get it to work? found bugs? comments?  
+please send us email to snakeman@phnet.fi and you could also visit our web 
+page to see if there are any details you might find handy, our pages are 
+at www.nekromantix.com/pmc
+
+							
+	Snake Man, PMC 1999.

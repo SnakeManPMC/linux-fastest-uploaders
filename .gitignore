@@ -1,0 +1,9 @@
+*.[oa]
+*~
+*.zip
+fast
+fastest
+log
+pmcfasts.dat
+misc/
+oldrelease/
